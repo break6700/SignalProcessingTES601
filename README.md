@@ -1,3 +1,4 @@
+![MATLAB](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fudemy-images.udemy.com%2Fcourse%2F750x422%2F600508_f83e_4.jpg&f=1&nofb=1)
 # Signal Processing TES601
 This is the unoffical Solent University Code Repo.
 
